@@ -7,758 +7,364 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac71aa13-8eb3-4c98-84a0-5987824d6ed2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mall_shopping_app_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mall_shopping_app_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/systemconfig_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/systemconfig_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/pc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/entity/VO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-app/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-mobile/src/utils/auth.js.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/artifacts/mall_wechat_applet_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/artifacts/mall_wechat_applet_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-shopping-wc/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/systemconfig/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/compute_realtime_spark_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/compute_realtime_spark_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/compute_realtime_view_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/compute_realtime_view_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mall_wechat_applet_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mall_wechat_applet_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mr_website_analyse_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mr_website_analyse_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mr_website_sdk_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mr_website_sdk_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mr_website_view_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mr_website_view_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/system_devops_autogen_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/system_devops_autogen_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/system_devops_automain_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/system_devops_automain_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_abel533_mapper_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_3_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_12_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_0_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jolbox_bonecp_0_8_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lmax_disruptor_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_compress_lzf_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_2_11_0_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_java_0_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_parquet_hadoop_bundle_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_univocity_univocity_parsers_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cz_mallat_uasparser_uasparser_0_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fastutil_fastutil_5_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_graphite_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_json_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_6_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_9_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_jdo_jdo_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javolution_javolution_5_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_apache_log4j_extras_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mx4j_mx4j_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_43.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_hydromatic_eigenbase_properties_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_iharder_base64_2_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_razorvine_pyrolite_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_py4j_py4j_0_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_jregex_jregex_1_2_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_ST4_4_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_ipc_tests_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_mapred_hadoop2_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_calcite_calcite_avatica_1_2_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_calcite_calcite_core_1_2_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_calcite_calcite_linq4j_1_2_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_crypto_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derby_10_10_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derby_10_12_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_annotations_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_client_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_common_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_common_tests_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop2_compat_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_hadoop_compat_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_prefix_tree_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_procedure_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hbase_hbase_server_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_ant_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_common_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_exec_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_metastore_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_serde_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_shims_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_shims_hive_shims_0_20S_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_shims_hive_shims_0_20_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_shims_hive_shims_0_23_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_shims_hive_shims_common_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_shims_hive_shims_common_secure_0_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ivy_ivy_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_11_0_8_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_8_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_column_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_common_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_encoding_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_format_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_hadoop_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_parquet_parquet_jackson_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_catalyst_2_11_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_core_2_11_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_hive_2_11_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_11_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_11_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_11_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sketch_2_11_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_sql_2_11_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_2_11_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_0_8_2_11_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_tags_2_11_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_11_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libfb303_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libfb303_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_asm5_shaded_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_2_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_janino_commons_compiler_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_janino_janino_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_datanucleus_datanucleus_api_jdo_3_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_datanucleus_datanucleus_core_3_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_datanucleus_datanucleus_rdbms_3_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_4_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_7_0_0_Alpha6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_iq80_snappy_snappy_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jamon_jamon_runtime_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_jcodings_jcodings_1_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jruby_joni_joni_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_ast_2_11_3_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_core_2_11_3_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_jackson_2_11_3_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20090211.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_sslengine_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jsp_2_1_6_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jsp_api_2_1_6_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_nutz_nutz_1_r_65.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_roaringbitmap_RoaringBitmap_0_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_11_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scalap_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_hive_hive_exec_1_2_1_spark2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_hive_hive_metastore_1_2_1_spark2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_spark_unused_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_3_2_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_2_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/dubbo_service_Impl_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/dubbo_service_Impl_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/mall_shopping_pc_service_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/mall_shopping_pc_service_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/system_config_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/system_config_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/system_config_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/system_config_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallCartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallCartMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallCommentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallCommentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallFeedbackMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallFeedbackMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallGoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallGoodsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallGoodsProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallGoodsProductMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallOrderGoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallOrderGoodsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/service/impl/mobile/LitemallGoodsSpecificationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/service/impl/mobile/LitemallGoodsSpecificationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-mr/mr-website-view/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/compute-mr/mr-website-view/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-spider/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data-spider/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-spider/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data-spider/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-spider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data-spider/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-spider/search/search/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/data-spider/search/search/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-spider/search/search/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/data-spider/search/search/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/resources/conf/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/resources/conf/db.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/resources/conf/dubbo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/resources/conf/dubbo.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/resources/spring/applicationContext-activemq.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/resources/spring/applicationContext-activemq.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-admin-service/mall-search-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-admin-service/mall-search-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/4.7/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/5.1.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/5.1.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/5.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/caches/build_file_checksums.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/caches/gradle_models.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/google-java-format.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/json2java.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_BaiduLBS_Android_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_MobCommons_2017_0801_1522_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_MobTools_2017_0801_1522_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_ShareSDK_Core_3_0_1_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_ShareSDK_QQ_3_0_1_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_ShareSDK_QZone_3_0_1_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_ShareSDK_SinaWeibo_3_0_1_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_ShareSDK_TencentWeibo_3_0_1_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_ShareSDK_Wechat_3_0_1_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_ShareSDK_Wechat_Core_3_0_1_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_ShareSDK_Wechat_Favorite_3_0_1_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_ShareSDK_Wechat_Moments_3_0_1_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle____local_aars___D__wulinhao_work_HGITS_code_learn_code_fly_learn_BigDataPlatform_mall_shopping_app_app_libs_tbs_sdk_thirdapp_v3_2_0_1104_43200_sharewithdownload_withfilereader_withoutGame_obfs_20170609_115346_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__android_arch_core_common_1_1_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_cardview_v7_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_cardview_v7_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_design_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_design_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_transition_27_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_android_support_transition_27_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_cjj_materialrefeshlayout_library_1_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_cjj_materialrefeshlayout_library_1_3_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_contrarywind_Android_PickerView_3_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_contrarywind_Android_PickerView_3_2_6_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_github_CymChad_BaseRecyclerViewAdapterHelper_2_9_42.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_github_CymChad_BaseRecyclerViewAdapterHelper_2_9_42_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_7_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_7_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_7_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_7_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_github_d_max_spots_dialog_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_github_d_max_spots_dialog_0_4_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_jakewharton_butterknife_8_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_jakewharton_butterknife_8_8_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_jakewharton_butterknife_annotations_8_8_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_mylhyl_acp_1_1_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_mylhyl_acp_1_1_7_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_readystatesoftware_systembartint_systembartint_1_0_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_3_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_squareup_okio_okio_1_8_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_sunfusheng_marqueeview_1_3_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_sunfusheng_marqueeview_1_3_3_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_youth_banner_banner_1_4_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__com_youth_banner_banner_1_4_10_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__net_zetetic_android_database_sqlcipher_3_5_7_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__org_freemarker_freemarker_2_3_23_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__org_greenrobot_eventbus_3_1_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__org_greenrobot_greendao_3_2_2_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__org_greenrobot_greendao_api_3_2_2_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/libraries/Gradle__org_greenrobot_greendao_generator_3_2_2_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/qaplug_profiles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/BaiduLBS_Android.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/MobCommons-2017.0801.1522.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/MobTools-2017.0801.1522.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/ShareSDK-Core-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/ShareSDK-QQ-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/ShareSDK-QZone-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/ShareSDK-SinaWeibo-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/ShareSDK-TencentWeibo-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/ShareSDK-Wechat-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/ShareSDK-Wechat-Core-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/ShareSDK-Wechat-Favorite-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/ShareSDK-Wechat-Moments-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/arm64-v8a/libweibosdkcore.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/armeabi-v7a/libweibosdkcore.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/armeabi/libBaiduMapSDK_base_v4_4_0.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/armeabi/libBaiduMapSDK_map_v4_4_0.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/armeabi/liblocSDK7a.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/armeabi/libweibosdkcore.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/mips/libweibosdkcore.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/mips64/libweibosdkcore.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/tbs_sdk_thirdapp_v3.2.0.1104_43200_sharewithdownload_withfilereader_withoutGame_obfs_20170609_115346.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/x86/libweibosdkcore.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/libs/x86_64/libweibosdkcore.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/assets/ShareSDK.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/assets/ShareSDK.xml.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/assets/province.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/MallShoppingApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/AddressAddActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/AddressListActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/BaseActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/CreateOrderActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/GoodsDetailsActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/GoodsListActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/GuideActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/LoginActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/MyFavoriteActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/MyOrdersActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/RegActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/RegSecondActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/SearchActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/SearchResultActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/activity/SplashActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/adapter/AddressListAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/adapter/CategoryAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/adapter/GoodsOrderAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/adapter/HistorySearchAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/adapter/HomeCatgoryAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/adapter/HotGoodsAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/adapter/HotSearchAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/adapter/SecondGoodsAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/adapter/ShopCartAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/BannerBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/BaseBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/Campaign.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/Charge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/ChargeRefundCollection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/HomeCampaignBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/HomeCategory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/HotGoods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/MessageEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/PickerCityAddressBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/ShoppingCart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/Tab.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/bean/Weather.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/contants/Contants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/contants/HttpContants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/contants/HttpContants.java.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/data/DataManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/data/dao/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/data/dao/AddressDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/data/dao/DaoMaster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/data/dao/DaoSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/data/dao/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/data/dao/UserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/data/mapper/AddressDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/data/mapper/DaoMaster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/data/mapper/DaoSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/data/mapper/UserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/fragment/BaseFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/fragment/CategoryFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/fragment/HomeFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/fragment/HotFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/fragment/MineFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/fragment/ShopCartFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/helper/DividerItemDecortion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/helper/SharePresenter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/msg/BaseRespMsg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/msg/CreateOrderRespMsg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/msg/LoginRespMsg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/msg/OrderRespMsg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/service/LocationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/CustomerLogo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/OnekeyShare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/OnekeySharePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/OnekeyShareTheme.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/OnekeyShareThemeImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/ShareContentCustomizeCallback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/ClassicTheme.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/EditPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/FriendAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/FriendListItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/FriendListPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/IndicatorView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/PRTHeader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/PicViewerPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/PlatformPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/PlatformPageAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/RotateImageView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/XView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/land/EditPageLand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/land/FriendListPageLand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/land/PlatformPageAdapterLand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/land/PlatformPageLand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/port/EditPagePort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/port/FriendListPagePort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/port/PlatformPageAdapterPort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/share/themes/classic/port/PlatformPagePort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/AppExistUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/CartShopProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/CountTimerView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/DESUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/GetJsonDataUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/GlideUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/KeyBoardUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/LogUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/PreferencesUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/ScreenUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/StringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/ToastUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/UserLocalData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/utils/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/widget/CircleImageView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/widget/ClearEditText.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/widget/EnjoyshopToolBar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/widget/FragmentTabHost.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/widget/FullyGridLayoutManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/widget/FullyLinearLayoutManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/widget/NumberAddSubView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/widget/WrapContentLinearLayoutManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/wxapi/WXEntryActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/jniLibs/arm64-v8a/liblocSDK7a.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/jniLibs/armeabi-v7a/liblocSDK7a.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/jniLibs/armeabi/liblocSDK7a.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/jniLibs/x86/liblocSDK7a.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/jniLibs/x86_64/liblocSDK7a.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/anim/anim_marquee_in.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/anim/anim_marquee_out.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/color/grey_btn_text_color.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/color/selector_tab_text.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/color/white_color_selector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/bl_gb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/guide_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/guide_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/guide_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/guide_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_alipay_72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_bd_72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_cancel_128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_cartfill_press.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_check_false.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_check_true.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_discover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_discover_press.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_grid_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_home_press.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_hot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_hot_press.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_list_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_right_64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_success_128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_user.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_user_press.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/icon_wechat_72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/index.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/kongj.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/pengyq.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/qq.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/shop_emptycart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/start_btn_click.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/start_btn_normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/weather_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/weib.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable-xhdpi/weixin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/banner_indicator_selected.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/banner_indicator_unselected.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/bg_btn_style_green.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/bg_btn_style_grey.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/bg_btn_style_red.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/bg_btn_style_white.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/bt_empty_gotoshop.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/company_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/default_head.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/guid_start_btn_selector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_add.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_back_32px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_check_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_check_checked_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_delete_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_edit_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_favorite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_grid_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_list_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_list_o.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_location.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_lock.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_msg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_my_info.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_telphone_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/icon_trash_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/seach_shape.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/selector_checkbox.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/selector_checkbox_green.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/selector_edittext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/selector_icon_cart.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/selector_icon_category.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/selector_icon_home.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/selector_icon_hot.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/selector_icon_mine.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/selector_list_item.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/selector_number_add_sub.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/selector_search_view.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/selector_view_block.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/shape_round_msgblue.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/drawable/time_bg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_address_add.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_address_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_create_order.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_goods_detail.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_goods_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_guide.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_myfavorite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_myorder.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_reg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_reg_second.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_search.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/activity_search_result.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/dialog_main_share_bottom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/fragment_category.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/fragment_hot.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/fragment_mine.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/fragment_shopcart.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/guide_item.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/header_fragment_home.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/include_line_horizontal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/include_line_vertical.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/item_search.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/tab_indicator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/template_address.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/template_cart.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/template_category_wares.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/template_home_cardview.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/template_home_cardview2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/template_hot_wares.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/template_order_goods.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/template_single_text.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/toolbar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/layout/widet_num_add_sub.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/values/attr_number_add_sub_view.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/values/attrs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/values/ids.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/androidTest/java/com/platform/app/http/okhttp/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/OkHttpUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/builder/GetBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/builder/HasParamsable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/builder/HeadBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/builder/OkHttpRequestBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/builder/OtherRequestBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/builder/PostFileBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/builder/PostFormBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/builder/PostStringBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/callback/BitmapCallback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/callback/Callback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/callback/FileCallBack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/callback/GenericsCallback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/callback/IGenericsSerializator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/callback/StringCallback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/cookie/CookieJarImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/cookie/store/CookieStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/cookie/store/HasCookieStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/cookie/store/MemoryCookieStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/cookie/store/PersistentCookieStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/cookie/store/SerializableHttpCookie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/https/HttpsUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/log/LoggerInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/request/CountingRequestBody.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/request/GetRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/request/OkHttpRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/request/OtherRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/request/PostFileRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/request/PostFormRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/request/PostStringRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/request/RequestCall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/utils/Exceptions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/utils/ImageUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/utils/L.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/okhttputils/src/main/java/com/platform/app/http/okhttp/utils/Platform.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/rebel-remote.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/rebel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/run.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-app/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/.env.deployment" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/.env.deployment" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/.env.development" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/.env.development" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/.env.production" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/.env.production" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/src/assets/images/goods_default.png" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/src/assets/images/goods_default.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/src/utils/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/src/utils/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/src/utils/request.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/src/views/login/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/src/views/login/login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-mobile/src/views/user/module-server/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-mobile/src/views/user/module-server/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/config/WxProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/config/WxProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/express/config/ExpressProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/express/config/ExpressProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/notify/config/NotifyProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/notify/config/NotifyProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/storage/config/StorageProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/storage/config/StorageProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/system/SystemInistService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/system/SystemInistService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/mobile/annotation/support/LoginUserHandlerMethodArgumentResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/mobile/annotation/support/LoginUserHandlerMethodArgumentResolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/mobile/service/WxGrouponRuleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/mobile/service/WxGrouponRuleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/mobile/util/JwtHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/mobile/util/JwtHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/mobile/web/WxGoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/mobile/web/WxGoodsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-service/src/main/resources/application-wx.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/resources/application-wx.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-admin-service/mall-manage-service/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-admin-service/mall-manage-service/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-admin-service/mall-manage-service/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-admin-service/mall-manage-service/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-admin-service/mall-search-service/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-admin-service/mall-search-service/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-admin-service/mall-search-service/src/main/resources/application-prod.yml.bakup" beforeDir="false" afterPath="$PROJECT_DIR$/mall-admin-service/mall-search-service/src/main/resources/application-prod.yml.bakup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-admin-web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mall-admin-web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-admin-web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mall-admin-web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-shopping-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-shopping-service/src/main/resources/conf/dubbo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-service/src/main/resources/conf/dubbo.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-wc/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-wc/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-wc/config/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-wc/config/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-wc/pages/about/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-wc/pages/about/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-wc/pages/goods/goods.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-wc/pages/goods/goods.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-wc/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-wc/pages/index/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-wc/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-wc/project.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-shopping-wc/utils/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/mall-shopping-wc/utils/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system-config/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system-config/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system-config/src/main/webapp/index.jsp" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/mall-admin-web/node_modules/" />
-    <ignored path="$PROJECT_DIR$/mall-shopping-mobile/node_modules/" />
-    <ignored path="$PROJECT_DIR$/mall-shopping-pc/node_modules/" />
-    <ignored path="$PROJECT_DIR$/mall-admin-service/target/" />
-    <ignored path="$PROJECT_DIR$/data-import-export/target/" />
-    <ignored path="$PROJECT_DIR$/dubbo-service/dubbo-service-interface/target/" />
-    <ignored path="$PROJECT_DIR$/mall-admin-service/mall-manage-service/target/" />
-    <ignored path="$PROJECT_DIR$/mall-admin-service/mall-search-service/target/" />
-    <ignored path="$PROJECT_DIR$/dubbo-service/target/" />
-    <ignored path="$PROJECT_DIR$/compute-realtime/target/" />
-    <ignored path="$PROJECT_DIR$/log-collect-server/target/" />
-    <ignored path="$PROJECT_DIR$/data-insight/target/" />
-    <ignored path="$PROJECT_DIR$/data-face/target/" />
-    <ignored path="$PROJECT_DIR$/compute-mr/target/" />
-    <ignored path="$PROJECT_DIR$/mall-admin-web/target/" />
-    <ignored path="$PROJECT_DIR$/log-collect-client/target/" />
-    <ignored path="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/target/" />
-    <ignored path="$PROJECT_DIR$/mall-shopping-app/.gradle/" />
-    <ignored path="$PROJECT_DIR$/mall-shopping-pc-service/target/" />
-    <ignored path="$PROJECT_DIR$/system-deploy/target/" />
-    <ignored path="$PROJECT_DIR$/mall-shopping-wc/target/" />
-    <ignored path="$PROJECT_DIR$/mall-wechat-applet/target/" />
-    <ignored path="$PROJECT_DIR$/multi-dimension-analysis/target/" />
-    <ignored path="$PROJECT_DIR$/mall-shopping-service/target/" />
-    <ignored path="$PROJECT_DIR$/mall-shopping-app-service/target/" />
-    <ignored path="$PROJECT_DIR$/system-report-analysis/target/" />
-    <ignored path="$PROJECT_DIR$/system-recommender/target/" />
-    <ignored path="$PROJECT_DIR$/system-search/target/" />
-    <ignored path="$PROJECT_DIR$/system-tasksubmit/target/" />
-    <ignored path="$PROJECT_DIR$/system-ad/target/" />
-    <ignored path="$PROJECT_DIR$/system-apm/target/" />
-    <ignored path="$PROJECT_DIR$/system-anti-cheating/target/" />
-    <ignored path="$PROJECT_DIR$/system-elk/target/" />
-    <ignored path="$PROJECT_DIR$/task-ops/target/" />
-    <ignored path="$PROJECT_DIR$/task-schedular/target/" />
-    <ignored path="$PROJECT_DIR$/mall-pc/target/" />
-    <ignored path="$PROJECT_DIR$/mall-shopping-pc/target/" />
-    <ignored path="$PROJECT_DIR$/mall-mobile/target/" />
-    <ignored path="$PROJECT_DIR$/mall-shopping-mobile/target/" />
-    <ignored path="$PROJECT_DIR$/system-config/target/" />
-    <ignored path="$PROJECT_DIR$/system-devops/target/" />
-    <ignored path="$PROJECT_DIR$/system-api-gateway/target/" />
-    <ignored path="$PROJECT_DIR$/system-alarm-platform/target/" />
-    <ignored path="$PROJECT_DIR$/systemconfig/target/" />
-    <ignored path="$PROJECT_DIR$/mall-shopping-app/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/utils/request.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mall-shopping-app/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1100">
-              <caret line="55" column="16" lean-forward="true" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/.env.production">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/.env.development">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/utils/local-storage.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/.env.deployment">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindBugs-IDEA-Workspace">
     <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>of(</find>
-      <find>5.1.4&lt;</find>
-      <find>inter</find>
-      <find>4.1.6&lt;</find>
-      <find>5.1.8</find>
-      <find>pagehelper-spring-boot-starter</find>
-      <find>5.1.4</find>
-      <find>Page&lt;</find>
-      <find>List</find>
-      <find>LitemallAdService</find>
-      <find>(Page)</find>
-      <find>pagehelper-spring-au</find>
-      <find>PageHelperAutoConfiguration</find>
-      <find>localhost:8094</find>
-      <find>com.github.pagehelper.autoconfigure.PageHelperAutoConfiguration</find>
-      <find>172.16.252.113</find>
-      <find>172.16.252.113com.github.pagehelper.PageInterceptor</find>
-      <find>com.github.pagehelper</find>
-      <find>PageInterceptor</find>
-      <find>4.1.6</find>
-      <find>baseURL</find>
-      <find>VUE_APP_BASE_API</find>
-      <find>8094</find>
-      <find>service.</find>
-      <find>service</find>
-      <find>:8094</find>
-      <find>HttpContants</find>
-      <find>http://120.77.155.220:8094</find>
-      <find>https://120.77.155.220:8094</find>
-      <find>https://120.77</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>com.platform.search.mapper.EsProductMapper</replace>
-      <replace>wx-admin-token</replace>
-      <replace>wx-token</replace>
-      <replace>mall-shopping-wx.</replace>
-      <replace>com.platform.mall.utils.mobile.helper</replace>
-      <replace>172.16.252.113:2181</replace>
-      <replace>120.77.155.220</replace>
-      <replace>192.168.172.138:2181</replace>
-      <replace>localhost:8094</replace>
-      <replace>120.77.155.220:8094</replace>
-      <replace>https://120.77.155.220:8094</replace>
-      <replace>http://120.77</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>D:\wulinhao\work\HGITS\code\learn-code\fly-learn\BigDataPlatform\mall-shopping-app\app\src</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/resources/conf/resource.properties" />
-        <option value="$PROJECT_DIR$/mall-admin-service/mall-search-service/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/mall-admin-service/mall-search-service/src/main/java/com/platform/search/mapper/EsProductMapper.java" />
-        <option value="$PROJECT_DIR$/mall-admin-service/mall-search-service/src/main/resources/mapper/EsProductMapper.xml" />
-        <option value="$PROJECT_DIR$/mall-shopping-mobile/src/api/api.js" />
-        <option value="$PROJECT_DIR$/system-devops/pom.xml" />
-        <option value="$PROJECT_DIR$/system-api-gateway/pom.xml" />
-        <option value="$PROJECT_DIR$/system-alarm-platform/pom.xml" />
-        <option value="$PROJECT_DIR$/mall-shopping-mobile/pom.xml" />
-        <option value="$PROJECT_DIR$/systemconfig/pom.xml" />
-        <option value="$PROJECT_DIR$/mall-shopping-mobile/src/utils/auth.js" />
-        <option value="$PROJECT_DIR$/mall-shopping-service/.gitignore" />
-        <option value="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/system/SystemInistService.java" />
-        <option value="$PROJECT_DIR$/mall-shopping-service/src/main/resources/application-wx.yml" />
-        <option value="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/entity/VO.java" />
-        <option value="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/service/impl/mobile/LitemallGoodsSpecificationServiceImpl.java" />
-        <option value="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/mapper/mobile/LitemallCartMapper.xml" />
-        <option value="$PROJECT_DIR$/mall-admin-service/mall-search-service/pom.xml" />
-        <option value="$PROJECT_DIR$/mall-shopping-wc/config/api.js" />
-        <option value="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/resources/spring/applicationContext-service.xml" />
-        <option value="$PROJECT_DIR$/mall-shopping-service/src/main/resources/conf/dubbo.properties" />
-        <option value="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/resources/conf/dubbo.properties" />
-        <option value="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/resources/spring/applicationContext-activemq.xml" />
-        <option value="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/mobile/Application.java" />
-        <option value="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/mobile/web/WxGoodsController.java" />
-        <option value="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/mobile/service/WxGrouponRuleService.java" />
-        <option value="$PROJECT_DIR$/dubbo-service/dubbo-service-Impl/src/main/java/com/platform/mall/service/impl/mobile/LitemallTopicServiceImpl.java" />
-        <option value="$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/util/ResponseUtil.java" />
-        <option value="$PROJECT_DIR$/mall-shopping-mobile/.env.production" />
-        <option value="$PROJECT_DIR$/mall-shopping-mobile/.env.development" />
-        <option value="$PROJECT_DIR$/mall-shopping-service/pom.xml" />
-        <option value="$PROJECT_DIR$/mall-shopping-mobile/.env.deployment" />
-        <option value="$PROJECT_DIR$/mall-shopping-mobile/src/utils/request.js" />
-        <option value="$PROJECT_DIR$/mall-shopping-app/pom.xml" />
-      </list>
-    </option>
   </component>
   <component name="JRebelWorkspace">
     <option name="jrebelEnabledAutocompile" value="true" />
@@ -770,117 +376,39 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../software/apache-maven-3.6.0" />
-        <option name="userSettingsFile" value="D:\wulinhao\software\apache-maven-3.6.0\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="dubbo-service-interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mall-shopping-service Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mall-shopping-service Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="190" />
-    <option name="y" value="-10" />
-    <option name="width" value="1310" />
-    <option name="height" value="1040" />
-  </component>
+  <component name="ProjectId" id="1f7HT0KIcmXUZWFylXzJ5QVBClK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="BigDataPlatform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-shopping-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataPlatform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-shopping-app" type="462c0819:PsiDirectoryNode" />
-              <item name="platforms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataPlatform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-shopping-app" type="462c0819:PsiDirectoryNode" />
-              <item name="platforms" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataPlatform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-shopping-app" type="462c0819:PsiDirectoryNode" />
-              <item name="platforms" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataPlatform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-shopping-app" type="462c0819:PsiDirectoryNode" />
-              <item name="platforms" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="outputs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataPlatform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-shopping-app" type="462c0819:PsiDirectoryNode" />
-              <item name="platforms" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="outputs" type="462c0819:PsiDirectoryNode" />
-              <item name="apk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataPlatform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-shopping-mobile" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572008586545" />
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/mall-shopping-app" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mall-shopping-app" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mall-admin-service/mall-search-service" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.539667" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="ts.external.directory.path" value="D:\wulinhao\software\IntelliJ IDEA 2018.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
@@ -891,19 +419,29 @@
       <recent name="D:\wulinhao\work\HGITS\code\learn-code\fly-learn\BigDataPlatform\mall-admin-service\mall-search-service\src\main\java\com\platform\search\mapper" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8093/role/list" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.mall-shopping-service">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package -DskipTests=TRUE" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.mall-manage-service#1">
+    <configuration name="mall-manage-service#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/mall-manage-service.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <configuration name="mall-manage-service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mall-manage-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.platform.MallManageService" />
@@ -915,7 +453,7 @@
     <configuration name="mall-search-service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mall-search-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.platform.search.MallSearchService" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -928,8 +466,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dubbo-service" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.29" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="dubbo-service" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
       <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
@@ -1184,6 +723,26 @@
         </option>
       </method>
     </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/mall-admin-web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/mall-admin-web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="mall-shopping-service" type="org.kubicz.mavenexecutor.runconfiguration.MavenExecutorRunConfigurationType" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -1211,13 +770,45 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Maven.mall-shopping-service" />
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.build" />
       <item itemvalue="Spring Boot.mall-search-service" />
       <item itemvalue="Spring Boot.mall-manage-service" />
       <item itemvalue="Spring Boot.mall-shopping-wx" />
       <item itemvalue="Tomcat Server.dubbo-service" />
       <item itemvalue="Tomcat Server.mall-shopping-pc" />
+      <item itemvalue="HTTP Request.mall-manage-service#1" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.mall-manage-service#1" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.05255023" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -1245,11 +836,13 @@
       <workItem from="1571968095782" duration="21984000" />
       <workItem from="1571997083186" duration="8328000" />
       <workItem from="1572008945643" duration="257000" />
+      <workItem from="1595562500069" duration="4296000" />
+      <workItem from="1595574485620" duration="944000" />
+      <workItem from="1595577820918" duration="4537000" />
+      <workItem from="1595685494458" duration="7721000" />
+      <workItem from="1595853196975" duration="1274000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95207000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1260,70 +853,118 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="1" />
-      <window_info id="JRebel" order="2" side_tool="true" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.2680965" />
-      <window_info id="Alibaba Cloud Explorer" order="8" />
-      <window_info id="Web" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="0" />
-      <window_info anchor="bottom" id="Application Servers" order="1" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="bottom" id="ConsoleMavenPlugin" order="2" />
-      <window_info anchor="bottom" id="Analysis" order="3" />
-      <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.424933" visible="true" weight="0.12322946" />
-      <window_info anchor="bottom" id="SBT Console" order="5" />
-      <window_info anchor="bottom" id="Spring" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.57841825" weight="0.3696884" />
-      <window_info anchor="bottom" id="CheckStyle" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Statistic" order="11" />
-      <window_info anchor="bottom" id="SBT Execute" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="bottom" id="JProfiler" order="14" />
-      <window_info anchor="bottom" id="Database Changes" order="15" />
-      <window_info anchor="bottom" id="Version Control" order="16" />
-      <window_info anchor="bottom" id="Problems" order="17" />
-      <window_info anchor="bottom" id="Alibaba Cloud View" order="18" />
-      <window_info anchor="bottom" id="JRebel Executor" order="19" />
-      <window_info anchor="bottom" id="JRebel Console" order="20" sideWeight="0.57506704" side_tool="true" visible="true" weight="0.12322946" />
-      <window_info anchor="bottom" id="Message" order="21" />
-      <window_info anchor="bottom" id="Find" order="22" />
-      <window_info anchor="bottom" id="Run" order="23" weight="0.3286119" />
-      <window_info anchor="bottom" id="Cvs" order="24" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="25" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="26" />
-      <window_info anchor="bottom" x="22" y="256" width="1492" height="312" id="Debug" order="27" sideWeight="0.4155496" side_tool="true" weight="0.41359773" />
-      <window_info anchor="bottom" id="TypeScript" order="28" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.12935656" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Maven Executor" order="7" />
-      <window_info anchor="right" id="BPMNPalette" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
-      <window_info anchor="right" id="Alibaba Function Compute" order="10" />
-      <window_info anchor="right" id="SciView" order="11" />
-      <window_info anchor="right" id="Find using jQA DB" order="12" side_tool="true" />
-      <window_info anchor="right" id="Alibaba Log Console" order="13" />
-      <window_info anchor="right" id="Theme Preview" order="14" />
-      <window_info anchor="right" id="PlantUML" order="15" />
-      <window_info anchor="right" id="Palette&#9;" order="16" />
-      <window_info anchor="right" id="Preview" order="17" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595728427586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1595728427586" />
+    <state x="434" y="176" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595579707470">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="176" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1595579707470" />
+    <state x="275" y="22" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1595571527635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.728@0.0.1366.728" timestamp="1595571527635" />
+    <state x="313" y="0" width="753" height="728" key="#mall-search-service" timestamp="1595579814479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="313" y="0" width="753" height="728" key="#mall-search-service/0.0.1366.728@0.0.1366.728" timestamp="1595579814479" />
+    <state x="173" y="0" key="CommitChangelistDialog2" timestamp="1595854495429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="173" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595854495429" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1595579799861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595579799861" />
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1595853974684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595853974684" />
+    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1595853974684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595853974684" />
+    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1595853974684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595853974684" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1595853974684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595853974684" />
+    <state width="1323" height="184" key="GridCell.Tab.1.bottom" timestamp="1595853869992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595853869992" />
+    <state width="1323" height="184" key="GridCell.Tab.1.center" timestamp="1595853869992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1595853869992" />
+    <state width="1323" height="184" key="GridCell.Tab.1.left" timestamp="1595853869992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1595853869992" />
+    <state width="1323" height="184" key="GridCell.Tab.1.right" timestamp="1595853869992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="184" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595853869992" />
+    <state width="1225" height="288" key="GridCell.Tab.2.bottom" timestamp="1595853756313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1225" height="288" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595853756313" />
+    <state width="1225" height="288" key="GridCell.Tab.2.center" timestamp="1595853756313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1225" height="288" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1595853756313" />
+    <state width="1225" height="288" key="GridCell.Tab.2.left" timestamp="1595853756312">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1225" height="288" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1595853756312" />
+    <state width="1225" height="288" key="GridCell.Tab.2.right" timestamp="1595853756313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1225" height="288" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1595853756313" />
+    <state width="1323" height="206" key="GridCell.Tab.3.bottom" timestamp="1595573554905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595573554905" />
+    <state width="1323" height="206" key="GridCell.Tab.3.center" timestamp="1595573554904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1595573554904" />
+    <state width="1323" height="206" key="GridCell.Tab.3.left" timestamp="1595573554904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1595573554904" />
+    <state width="1323" height="206" key="GridCell.Tab.3.right" timestamp="1595573554905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1595573554905" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1595580490775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595580490775" />
+    <state x="482" y="141" key="chooseDestDirectoryDialog" timestamp="1595854514444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="482" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1595854514444" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1595685497581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595685497581" />
+    <state x="359" y="97" width="786" height="600" key="find.popup" timestamp="1595728893144">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="97" width="786" height="600" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1595728893144" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1595571751952">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1595571751952" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1331,374 +972,9 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/util/ResponseUtil.java</url>
           <line>62</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mall-shopping-service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.3/pagehelper-spring-boot-autoconfigure-1.2.3.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="237" column="24" lean-forward="true" selection-start-line="237" selection-start-column="24" selection-end-line="237" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-admin-web/static/tinymce4.7.5/tinymce.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="96640" selection-start-line="1" selection-start-column="96640" selection-end-line="1" selection-end-column="96640" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/storage/TencentStorage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-          <folding>
-            <element signature="e#2079#2080#0" expanded="true" />
-            <element signature="e#2163#2164#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/storage/config/StorageAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1081">
-          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-pc-service/src/main/webapp/swagger/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="97" column="79" selection-start-line="97" selection-start-column="79" selection-end-line="97" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-service/src/main/java/com/platform/mall/core/storage/AliyunStorage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
-          <folding>
-            <element signature="e#1763#1764#0" expanded="true" />
-            <element signature="e#1832#1833#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/vue.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/.eslintrc.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/views/user/tabbar-user.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/utils/location-param.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/utils/scroll.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/utils/validate.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/router/home.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200">
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/router/items.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/router/login.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/router/order.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/router/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1780" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/mixin/scroll-fixed.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/filter/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/components/is-empty/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-160" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/components/Tabbar/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1260" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/components/field-group/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/components/field/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1680" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/node_modules/@types/node/globals.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2480">
-          <caret line="736" column="8" selection-start-line="736" selection-start-column="8" selection-end-line="736" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../helper/litemall/litemall-vue/.env.development">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../helper/litemall/litemall-vue/.env.deployment">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/api/api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1800">
-          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/.postcssrc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/babel.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/dist/static/js/runtime~app.d9d949f7.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/.prettierrc.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/utils/auth.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/dist/app.js" />
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/dist/runtime~app.js" />
-    <entry file="file://$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/MallShoppingApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="117" column="31" selection-start-line="117" selection-start-column="31" selection-end-line="117" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/.env.production">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/.env.development">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/utils/local-storage.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/.env.deployment">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-app/app/src/main/java/com/platform/app/contants/HttpContants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-mobile/src/utils/request.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mall-shopping-app/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="55" column="16" lean-forward="true" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>compute-mr:war</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.539667" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Java-Gradle</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.539667" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Python 3.7 (ExportScene01) interpreter library</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>mall-shopping-service</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.539667" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.github.pagehelper:pagehelper-spring-boot-starter:1.2.5</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.539667" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

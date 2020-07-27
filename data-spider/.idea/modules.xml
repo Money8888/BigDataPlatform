@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/data-spider.iml" filepath="$PROJECT_DIR$/.idea/data-spider.iml" />
+      <module fileurl="file://D:\JavaProject\BigDataPlatform\data-spider\.idea\data-spider.iml" filepath="D:\JavaProject\BigDataPlatform\data-spider\.idea\data-spider.iml" />
     </modules>
   </component>
 </project>

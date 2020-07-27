@@ -2,14 +2,17 @@
 __author__ = 'bobby'
 
 from datetime import datetime
-from elasticsearch_dsl import DocType, Date, Nested, Boolean, \
-    analyzer, InnerObjectWrapper, Completion, Keyword, Text, Integer
+import elasticsearch_dsl
+# DocType
+from elasticsearch_dsl import Document, Date, Nested, Boolean, \
+    analyzer, Completion, Keyword, Text, Integer
+# InnerObjectWrapper
 
 from elasticsearch_dsl.analysis import CustomAnalyzer as _CustomAnalyzer
 
 from elasticsearch_dsl.connections import connections
 
-connections.create_connection(hosts=["172.16.252.113"])
+connections.create_connection(hosts=["127.0.0.1"])
 
 
 class CustomAnalyzer(_CustomAnalyzer):
@@ -20,7 +23,7 @@ class CustomAnalyzer(_CustomAnalyzer):
 ik_analyzer = CustomAnalyzer("ik_max_word", filter=["lowercase"])
 
 
-class Article(DocType):
+class Article(Document):
     title_suggest = Completion(analyzer=ik_analyzer, search_analyzer=ik_analyzer)
     title = Text(analyzer='ik_max_word', search_analyzer="ik_max_word", fields={'title': Keyword()})
     id = Text()

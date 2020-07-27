@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mr-website-sdk:war">
+    <output-path>$PROJECT_DIR$/compute-mr/mr-website-sdk/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mr-website-sdk</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mr-website-sdk.war">
+      <element id="artifact" artifact-name="mr-website-sdk:war exploded" />
+    </root>
+  </artifact>
+</component>

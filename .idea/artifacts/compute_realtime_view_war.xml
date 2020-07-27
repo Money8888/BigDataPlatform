@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="compute-realtime-view:war">
+    <output-path>$PROJECT_DIR$/compute-realtime/compute-realtime-view/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>compute-realtime-view</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="compute-realtime-view.war">
+      <element id="artifact" artifact-name="compute-realtime-view:war exploded" />
+    </root>
+  </artifact>
+</component>

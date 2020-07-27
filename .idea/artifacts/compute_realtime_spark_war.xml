@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="compute-realtime-spark:war">
+    <output-path>$PROJECT_DIR$/compute-realtime/compute-realtime-spark/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>compute-realtime-spark</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spark-project.war">
+      <element id="artifact" artifact-name="compute-realtime-spark:war exploded" />
+    </root>
+  </artifact>
+</component>

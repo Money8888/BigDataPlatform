@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="RNN.RNN.data_handle" />
+          <option value="RNN.RNN.data_load" />
+          <option value="RNN.RNN.data_sample_random" />
+          <option value="RNN.RNN.data_sample_consecutive" />
+          <option value="RNN.RNN_simple.data_handle" />
+          <option value="RNN.RNN_simple.data_load" />
+          <option value="RNN.RNN.to_onehot" />
+          <option value="RNN.RNN_simple.to_onehot" />
+          <option value="RNN.RNN_simple.data_sample_consecutive" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

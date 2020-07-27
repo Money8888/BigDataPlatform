@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="system-devops-autogen:war">
+    <output-path>$PROJECT_DIR$/system-devops/system-devops-autogen/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>system-devops-autogen</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="system-devops-autogen-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="system-devops-autogen:war exploded" />
+    </root>
+  </artifact>
+</component>

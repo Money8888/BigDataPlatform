@@ -1,6 +1,7 @@
 import json
 from django.shortcuts import render
 from django.views.generic.base import View
+
 from search.models import Article
 from django.http import HttpResponse
 from elasticsearch import Elasticsearch
@@ -55,7 +56,7 @@ class SearchView(View):
     def get(self, request):
         key_words = request.GET.get("q", "")
         s_type = request.GET.get("s_type", "jobbole_article")
-        redis_cli.zincrby("search_keywords_set", key_words)
+        redis_cli.zincrby("search_keywords_set", key_words, 1)
         topn_search_old = redis_cli.zrevrangebyscore("search_keywords_set", "+inf", "-inf", start=0, num=5)
         topn_search = []
         for top in topn_search_old:

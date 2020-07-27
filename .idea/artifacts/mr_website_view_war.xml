@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mr-website-view:war">
+    <output-path>$PROJECT_DIR$/compute-mr/mr-website-view/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mr-website-view</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mr-website-view.war">
+      <element id="artifact" artifact-name="mr-website-view:war exploded" />
+    </root>
+  </artifact>
+</component>
